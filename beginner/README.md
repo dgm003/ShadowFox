@@ -30,5 +30,5 @@ This project implements a regression model to predict house prices using the Bos
 ## 🙌 Author
 
 **Dhanush G M**  
-AIML Intern @ ShadowFox  
+AIML Intern @ ShadowFox.  
 [GitHub](https://github.com/dgm003/ShadowFox) | [LinkedIn](www.linkedin.com/in/dhanush-gm)
