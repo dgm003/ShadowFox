@@ -7,9 +7,9 @@ Each project demonstrates hands-on experience with data preprocessing, model bui
 ---
 
 ## 📂 Folder Structure
-ShadowFox/
-├── beginner/ # Boston House Price Prediction (Regression)
-├── intermediate/ # Loan Approval Prediction (Classification)
+- `Beginner/` – Boston House Price Prediction (Regression)
+- `Intermediate/` – Loan Approval Prediction (Classification)
+
 
 ## ✅ Completed Tasks
 
@@ -45,6 +45,6 @@ ShadowFox/
 
 **Dhanush G M**  
 AI/ML Intern @ ShadowFox  
-🔗 [GitHub](https://github.com/dgm003/ShadowFox) | [LinkedIn](www.linkedin.com/in/dhanush-gm)
+🔗 [GitHub](https://github.com/dgm003/ShadowFox) | [LinkedIn](https://www.linkedin.com/in/dhanush-gm)
 
 ---
