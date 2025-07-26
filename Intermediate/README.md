@@ -80,7 +80,7 @@ SVC was more conservative (less likely to miss eligible applicants), while Rando
 
 **Dhanush G M**  
 AIML Intern @ ShadowFox  
-[GitHub](https://github.com/dgm003/ShadowFox) | [LinkedIn](www.linkedin.com/in/dhanush-gm)
+[GitHub](https://github.com/dgm003/ShadowFox) | [LinkedIn](https://www.linkedin.com/in/dhanush-gm)
 
 ---
 
